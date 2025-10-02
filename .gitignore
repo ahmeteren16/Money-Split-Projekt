@@ -2,7 +2,7 @@
 .idea/
 *.iml
 
-# Eclipse / VSCode (eğer olursa)
+# Eclipse / VSCode 
 .project
 .classpath
 .settings/
